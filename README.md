@@ -1,5 +1,9 @@
 # awesome-storage
 
+## Other my awesome lists
+
+- [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
+
 Awesome cloud storage providers for individuals and family sorted by minimal plan price
 
 ## Cloud
