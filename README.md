@@ -19,8 +19,8 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | Name            | Part of    | Free | Minimal plan    | E2EE | File History |
 | --------------- | ---------- | ---- | --------------- | ---- | ------------ |
 | iCloud Drive    | iCloud+    | 5GB  | 50GB / 12$/y    | Yes  | -            |
-| Mail.ru 🇷🇺 Disk | Mail.ru    | 8GB  | 128GB / 12.5$/y | -    | -            |
-| Yandex 🇷🇺 Disk  | Yandex 360 | 5GB  | 200GB / 16.5$/y | -    | Yes          |
+| Mail.ru Disk 🇷🇺 | Mail.ru    | 8GB  | 128GB / 12.5$/y | -    | -            |
+| Yandex Disk 🇷🇺  | Yandex 360 | 5GB  | 200GB / 16.5$/y | -    | Yes          |
 | Google Drive    | Google One | 15GB | 200GB / 20$/y   | -    | 30-days      |
 | MS OneDrive     | MS 365     | 5GB  | 100GB / 20$/y   | -    | Yes          |
 | pCloud          | -          | 10GB | 500GB / $50/y   | 150$ | 15/30 days   |
