@@ -1,6 +1,6 @@
 # awesome-storage
 
-Awesome cloud storage providers for individuals and family sorted by minimal plan price
+List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 
 ## Other my awesome lists
 
