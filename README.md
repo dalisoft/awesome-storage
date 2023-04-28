@@ -16,23 +16,23 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 ## Cloud
 
-| Name                                                                                         | Part of    | Free  | Minimal plan                                                             | E2EE | File History |
-| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------------------ | ---- | ------------ |
-| [Koofr](https://koofr.eu)                                                                    | -          | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | -    | Yes          |
-| iCloud Drive                                                                                 | iCloud+    | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
-| [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0)                                 | -          | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
-| [Облако Mail.ru](https://cloud.mail.ru) 🇷🇺                                                   | Mail.ru    | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
-| [Yandex Disk](https://disk.yandex.ru) 🇷🇺                                                     | Yandex 360 | 5GB   | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)               | -    | Yes          |
-| [Google Drive](https://www.google.com/drive)                                                 | Google One | 15GB  | [200GB / $20/y](https://www.google.com/drive/#pricing)                   | -    | 30-days      |
-| [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive)                              | MS 365     | 5GB   | 100GB / $20/y                                                            | -    | Yes          |
-| [IceDrive](https://icedrive.net/plans)                                                       | -          | 10GB  | [150GB / $20/y](https://icedrive.net/plans)                              | Yes  | ?            |
-| [pCloud](https://e.pcloud.com/#page=register&invite=ynR7ZlAVRT7)                             | -          | 10GB  | [500GB / $50/y](https://www.pcloud.com/cloud-storage-pricing-plans.html) | $150 | 15/30 days   |
-| [Mega](https://mega.nz/aff=Gjch3rzQJmA)                                                      | -          | 20GB  | [400GB / 50€/y](https://mega.io/pricing)                                 | Yes  | Yes          |
-| [Sync](https://www.sync.com)                                                                 | -          | 5GB   | [2TB / $96/y](https://www.sync.com/pricing/)                             | Yes  | 180-days     |
-| [Dropbox](https://www.dropbox.com/referrals/AADdF28MD0HWowjvA83VJAlLJlHyBXid8hA?src=global9) |            | 2GB   | [2TB / $120/y](https://www.dropbox.com/plans)                            | -    | 30-days      |
-| [Box](https://www.box.com)                                                                   | -          | 30GB  | [100GB / $138/y](https://www.box.com/pricing/individual)                 | -    | Limited      |
-| [tresorit](https://tresorit.com)                                                             | -          | Trial | [1TB / $144/y](https://tresorit.com/pricing)                             | Yes  | Yes          |
-| [ownCloud](https://owncloud.com)                                                             | ownCloud   | -     | [500GB / 180€/y](https://owncloud.online/pricing)                        | Yes  | 180-days     |
+| Name                                                                                            | Part of    | Free  | Minimal plan                                                             | E2EE | File History |
+| ----------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------------------------------------------------------------ | ---- | ------------ |
+| [Koofr](https://koofr.eu)                                                                       | -          | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | -    | Yes          |
+| iCloud Drive                                                                                    | iCloud+    | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
+| [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0) 💲                                 | -          | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
+| [Облако Mail.ru](https://cloud.mail.ru) 🇷🇺                                                      | Mail.ru    | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
+| [Yandex Disk](https://disk.yandex.ru) 🇷🇺                                                        | Yandex 360 | 5GB   | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)               | -    | Yes          |
+| [Google Drive](https://www.google.com/drive)                                                    | Google One | 15GB  | [200GB / $20/y](https://www.google.com/drive/#pricing)                   | -    | 30-days      |
+| [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive)                                 | MS 365     | 5GB   | 100GB / $20/y                                                            | -    | Yes          |
+| [IceDrive](https://icedrive.net/plans)                                                          | -          | 10GB  | [150GB / $20/y](https://icedrive.net/plans)                              | Yes  | ?            |
+| [pCloud](https://e.pcloud.com/#page=register&invite=ynR7ZlAVRT7) 💲                             | -          | 10GB  | [500GB / $50/y](https://www.pcloud.com/cloud-storage-pricing-plans.html) | $150 | 15/30 days   |
+| [Mega](https://mega.nz/aff=Gjch3rzQJmA) 💲                                                      | -          | 20GB  | [400GB / 50€/y](https://mega.io/pricing)                                 | Yes  | Yes          |
+| [Sync](https://www.sync.com)                                                                    | -          | 5GB   | [2TB / $96/y](https://www.sync.com/pricing/)                             | Yes  | 180-days     |
+| [Dropbox](https://www.dropbox.com/referrals/AADdF28MD0HWowjvA83VJAlLJlHyBXid8hA?src=global9) 💲 |            | 2GB   | [2TB / $120/y](https://www.dropbox.com/plans)                            | -    | 30-days      |
+| [Box](https://www.box.com)                                                                      | -          | 30GB  | [100GB / $138/y](https://www.box.com/pricing/individual)                 | -    | Limited      |
+| [tresorit](https://tresorit.com)                                                                | -          | Trial | [1TB / $144/y](https://tresorit.com/pricing)                             | Yes  | Yes          |
+| [ownCloud](https://owncloud.com)                                                                | ownCloud   | -     | [500GB / 180€/y](https://owncloud.online/pricing)                        | Yes  | 180-days     |
 
 `*` - I do not guarantee for security and privacy of these cloud services
 
