@@ -22,9 +22,10 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://www.google.com/drive/#pricing)     | -    | 30-days      |
 | [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                              | -    | Yes          |
 | [Skiff](https://app.skiff.com/signup?mail&referral=dalisoft) 💲 | -          | 10GB | [15GB / $36/y](https://skiff.com/pricing)                  | Yes  | Yes          |
+| [Proton Drive](https://proton.me/drive)                         | Proton     | 1GB  | [200GB / 48€/y](https://proton.me/drive/pricing)           | Yes  | -            |
+| [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)           | Yes  | -            |
 | [Box](https://www.box.com)                                      | -          | 30GB | [100GB / $138/y](https://www.box.com/pricing/individual)   | -    | Limited      |
 | [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)          | Yes  | 180-days     |
-| [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)           | Yes  | -            |
 
 ## Cloud
 
