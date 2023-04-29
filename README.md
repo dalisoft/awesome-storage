@@ -31,7 +31,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 | Name                                                                                            | Part of | Free  | Minimal plan                                                             | E2EE | File History |
 | ----------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------------------------------------------------------ | ---- | ------------ |
-| [Koofr](https://koofr.eu)                                                                       | -       | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | -    | Yes          |
+| [Koofr](https://koofr.eu)                                                                       | -       | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | Yes  | Yes          |
 | iCloud Drive                                                                                    | iCloud+ | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
 | [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0) 💲                                 | -       | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
 | [Облако Mail.ru](https://cloud.mail.ru) 🇷🇺                                                      | Mail.ru | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
