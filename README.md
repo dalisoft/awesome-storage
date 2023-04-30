@@ -29,6 +29,8 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Box](https://www.box.com)                                      | -          | 30GB | [100GB / $138/y](https://www.box.com/pricing/individual)     | -    | Limited      |
 | [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)            | Yes  | 180-days     |
 
+`*` - I do not guarantee for security and privacy of these cloud services
+
 ## Cloud
 
 | Name                                                                                            | Part of | Free  | Minimal plan                                                             | E2EE | File History |
@@ -47,6 +49,8 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Dropbox](https://www.dropbox.com/referrals/AADdF28MD0HWowjvA83VJAlLJlHyBXid8hA?src=global9) 💲 | -       | 2GB   | [2TB / $120/y](https://www.dropbox.com/plans)                            | -    | 30-days      |
 | [tresorit](https://tresorit.com)                                                                | -       | Trial | [1TB / $144/y](https://tresorit.com/pricing)                             | Yes  | Yes          |
 | [Tebi](https://tebi.io)                                                                         | -       | 25GB  | [5TB / $500/y](https://tebi.io/#prices)                                  | -    | ?            |
+
+`*` - I do not guarantee for security and privacy of these cloud services
 
 ## Media
 
