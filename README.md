@@ -62,15 +62,15 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 ## S3
 
-| Name                     | Free | Plan             | E2EE | File History |
-| ------------------------ | ---- | ---------------- | ---- | ------------ |
-| Backblaze B2             | 10GB | 1-1TB / $180/yr  | -    | -            |
-| Yandex Object Storage 🇷🇺 | 10GB | 1-1TB / $334/yr  | -    | Yes          |
-| Azure                    | 5GB  | 1-1TB / $1210/yr | -    | -            |
-| Amazon S3                | 5GB  | 1-1TB / $1392/yr | -    | -            |
-| Google Cloud Storage     | 5GB  | 1-1TB / $1715/yr | -    | -            |
-
-> Pricing was got from <https://www.backblaze.com/b2/cloud-storage-pricing.html>
+| Name                                                                           | Free | Plan                                                                       | E2EE | File History |
+| ------------------------------------------------------------------------------ | ---- | -------------------------------------------------------------------------- | ---- | ------------ |
+| [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)                | 10GB | [1-1TB / $180/yr](https://www.backblaze.com/b2/cloud-storage-pricing.html) | -    | -            |
+| [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 75GB | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
+| [Yandex Object Storage](https://cloud.yandex.com/en-ru/services/storage) 🇷🇺    | 10GB | 1-1TB / $520/yr                                                            | -    | Yes          |
+| [Selectel Object Storage](https://selectel.ru/services/cloud/storage) 🇷🇺       | -    | 1-1TB / $576/yr                                                            | -    | -            |
+| [Google Cloud Storage](https://cloud.google.com/storage)                       | 5GB  | 1-1TB / $804/yr                                                            | -    | -            |
+| [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs) | -    | 1-1TB / $1210/yr                                                           | -    | -            |
+| [Amazon S3](https://aws.amazon.com/s3)                                         | 5GB  | 1-1TB / $1416/yr                                                           | -    | -            |
 
 ## Self-hosted
 
