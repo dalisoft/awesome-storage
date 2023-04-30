@@ -74,11 +74,12 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 ## Self-hosted
 
-| Name                                       | E2EE | File History |
-| ------------------------------------------ | ---- | ------------ |
-| [Seafile](https://www.seafile.com/en/home) | Yes  | Yes          |
-| [NextCloud](https://nextcloud.com)         | Yes  | Yes          |
-| [ownCloud](https://owncloud.com)           | Yes  | Yes?         |
+| Name                                                | E2EE | File History |
+| --------------------------------------------------- | ---- | ------------ |
+| [Seafile](https://www.seafile.com/en/home)          | Yes  | Yes          |
+| [NextCloud](https://nextcloud.com)                  | Yes  | Yes          |
+| [ownCloud](https://owncloud.com)                    | Yes  | Yes?         |
+| [Aurora Files](https://afterlogic.org/aurora-files) | Yes  | Yes?         |
 
 ## References
 
