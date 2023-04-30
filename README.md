@@ -79,3 +79,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Seafile](https://www.seafile.com/en/home) | Yes  | Yes          |
 | [NextCloud](https://nextcloud.com)         | Yes  | Yes          |
 | [ownCloud](https://owncloud.com)           | Yes  | Yes?         |
+
+## References
+
+- <https://eylenburg.github.io/cloud_comparison.htm> - Useful page for matching your needs
