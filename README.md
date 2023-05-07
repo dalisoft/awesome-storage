@@ -25,7 +25,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Proton Drive](https://proton.me/drive)                         | Proton     | 1GB  | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | -            |
 | [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)             | Yes  | -            |
 | [kDrive](https://www.infomaniak.com/en/kdrive) ⚠️               | kSuite     | 15GB | [2TB / 60CHF/y](https://www.infomaniak.com/en/kdrive/prices) | -    | Yes          |
-| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $100/y](https://www.opendrive.com/pricing)     | -    | Yes          |
+| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $99/y](https://www.opendrive.com/pricing)      | -    | Yes          |
 | [Box](https://www.box.com)                                      | -          | 30GB | [100GB / $138/y](https://www.box.com/pricing/individual)     | -    | Limited      |
 | [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)            | Yes  | 180-days     |
 
@@ -35,6 +35,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 | Name                                                                                            | Part of | Free  | Minimal plan                                                             | E2EE | File History |
 | ----------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------------------------------------------------------ | ---- | ------------ |
+| [iDrive](https://www.idrive.com) ⚠️                                                             | -       | 10GB  | [100GB / $3/y](https://www.idrive.com/pricing)                           | Yes  | Yes          |
 | [Koofr](https://koofr.eu)                                                                       | -       | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | Yes  | Yes          |
 | [INTERNXT](https://internxt.com)                                                                | -       | 10GB  | [20GB / 11€/y](https://internxt.com/pricing)                             | Yes  | -            |
 | iCloud Drive                                                                                    | iCloud+ | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
@@ -46,6 +47,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [pCloud](https://e.pcloud.com/#page=register&invite=ynR7ZlAVRT7) 💲                             | -       | 10GB  | [500GB / $50/y](https://www.pcloud.com/cloud-storage-pricing-plans.html) | $150 | 15/30 days   |
 | [Mega](https://mega.nz/aff=Gjch3rzQJmA) 💲                                                      | -       | 20GB  | [400GB / 50€/y](https://mega.io/pricing)                                 | Yes  | Yes          |
 | [Sync](https://www.sync.com)                                                                    | -       | 5GB   | [2TB / $96/y](https://www.sync.com/pricing/)                             | Yes  | 180-days     |
+| [Jottacloud](https://www.jottacloud.com)                                                        | -       | 5GB   | [1TB / 118€/ y](https://www.jottacloud.com/en/home)                      |      | Yes          |
 | [Dropbox](https://www.dropbox.com/referrals/AADdF28MD0HWowjvA83VJAlLJlHyBXid8hA?src=global9) 💲 | -       | 2GB   | [2TB / $120/y](https://www.dropbox.com/plans)                            | -    | 30-days      |
 | [tresorit](https://tresorit.com)                                                                | -       | Trial | [1TB / $144/y](https://tresorit.com/pricing)                             | Yes  | Yes          |
 | [Tebi](https://tebi.io)                                                                         | -       | 25GB  | [5TB / $500/y](https://tebi.io/#prices)                                  | -    | ?            |
@@ -64,6 +66,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 | Name                                                                           | Free | Plan                                                                       | E2EE | File History |
 | ------------------------------------------------------------------------------ | ---- | -------------------------------------------------------------------------- | ---- | ------------ |
+| [iDrive e2](https://www.idrive.com/object-storage-e2)                          | -    | [1-1TB / $40/yr](https://www.idrive.com/object-storage-e2/pricing)         | -    | -            |
 | [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)                | 10GB | [1-1TB / $180/yr](https://www.backblaze.com/b2/cloud-storage-pricing.html) | -    | -            |
 | [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 75GB | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
 | [Yandex Object Storage](https://cloud.yandex.com/en-ru/services/storage) 🇷🇺    | 10GB | 1-1TB / $520/yr                                                            | -    | Yes          |
@@ -84,3 +87,4 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## References
 
 - <https://eylenburg.github.io/cloud_comparison.htm> - Useful page for matching your needs
+- <https://rclone.org> - rclone homepage and supported cloud storage for easier managing from Linux
