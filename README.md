@@ -2,10 +2,6 @@
 
 List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 
-![#StandWithUkraine](https://github.com/jonathanbossenger/stand-with-ukraine/blob/e95a7ed22faac167cc623cf6e1cba49394769fe3/_repo_assets/banner-772%C3%97250.png)
-
-> All Russian services are marked by flags so i do not recommend using any of them
-
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
@@ -18,7 +14,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 | Name                                                            | Part of    | Free | Minimal plan                                                 | E2EE | File History |
 | --------------------------------------------------------------- | ---------- | ---- | ------------------------------------------------------------ | ---- | ------------ |
-| [Yandex Disk](https://disk.yandex.ru) 🇷🇺                        | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)   | -    | Yes          |
+| [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)   | -    | Yes          |
 | [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://www.google.com/drive/#pricing)       | -    | 30-days      |
 | [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                                | -    | Yes          |
 | [Skiff](https://app.skiff.com/signup?mail&referral=dalisoft) 💲 | -          | 10GB | [15GB / $36/y](https://skiff.com/pricing)                    | Yes  | Yes          |
@@ -40,7 +36,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [INTERNXT](https://internxt.com)                                                                | -       | 10GB  | [20GB / 11€/y](https://internxt.com/pricing)                             | Yes  | -            |
 | iCloud Drive                                                                                    | iCloud+ | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
 | [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0) 💲                                 | -       | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
-| [Облако Mail.ru](https://cloud.mail.ru) 🇷🇺                                                      | Mail.ru | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
+| [Облако Mail.ru](https://cloud.mail.ru)                                                         | Mail.ru | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
 | [IceDrive](https://icedrive.net/plans)                                                          | -       | 10GB  | [150GB / $20/y](https://icedrive.net/plans)                              | Yes  | ?            |
 | [NordLocker](https://nordlocker.com/secure-cloud-storage)                                       | NordVPN | 3GB   | 500GB / $36/y                                                            | Yes  | ?            |
 | [Hetzner Storage](https://www.hetzner.com/storage/storage-box)                                  | Hetzner | -     | 1TB / 45€/y                                                              | -    | Yes          |
@@ -67,11 +63,11 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | Name                                                                           | Free | Plan                                                                       | E2EE | File History |
 | ------------------------------------------------------------------------------ | ---- | -------------------------------------------------------------------------- | ---- | ------------ |
 | [iDrive e2](https://www.idrive.com/object-storage-e2)                          | -    | [1-1TB / $40/yr](https://www.idrive.com/object-storage-e2/pricing)         | -    | -            |
-| [Contabo Object Storage](https://contabo.com/en/object-storage/)               | -    | 1-1TB / $144/yr                                                            | -    | -            
+| [Contabo Object Storage](https://contabo.com/en/object-storage/)               | -    | 1-1TB / $144/yr                                                            | -    | -            |
 | [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)                | 10GB | [1-1TB / $180/yr](https://www.backblaze.com/b2/cloud-storage-pricing.html) | -    | -            |
 | [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 75GB | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
-| [Yandex Object Storage](https://cloud.yandex.com/en-ru/services/storage) 🇷🇺    | 10GB | 1-1TB / $520/yr                                                            | -    | Yes          |
-| [Selectel Object Storage](https://selectel.ru/services/cloud/storage) 🇷🇺       | -    | 1-1TB / $576/yr                                                            | -    | -            |
+| [Yandex Object Storage](https://cloud.yandex.com/en-ru/services/storage)       | 10GB | 1-1TB / $520/yr                                                            | -    | Yes          |
+| [Selectel Object Storage](https://selectel.ru/services/cloud/storage)          | -    | 1-1TB / $576/yr                                                            | -    | -            |
 | [Google Cloud Storage](https://cloud.google.com/storage)                       | 5GB  | 1-1TB / $804/yr                                                            | -    | -            |
 | [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs) | -    | 1-1TB / $1210/yr                                                           | -    | -            |
 | [Amazon S3](https://aws.amazon.com/s3)                                         | 5GB  | 1-1TB / $1416/yr                                                           | -    | -            |
