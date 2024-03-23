@@ -63,7 +63,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | Name                                                                           | Free | Plan                                                                       | E2EE | File History |
 | ------------------------------------------------------------------------------ | ---- | -------------------------------------------------------------------------- | ---- | ------------ |
 | [iDrive e2](https://www.idrive.com/object-storage-e2)                          | -    | [1-1TB / $40/yr](https://www.idrive.com/object-storage-e2/pricing)         | -    | -            |
-| [Storj](https://storj.io)                                                      | 25GB | [1-1TB / $135/yr](https://storj.io/pricing)                                | -    | -            |
+| [Storj](https://storj.io)                                                      | -    | [1-1TB / $135/yr](https://storj.io/pricing)                                | -    | -            |
 | [Contabo Object Storage](https://contabo.com/en/object-storage/)               | -    | 1-1TB / $144/yr                                                            | -    | -            |
 | [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)                | 10GB | [1-1TB / $180/yr](https://www.backblaze.com/b2/cloud-storage-pricing.html) | -    | -            |
 | [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 75GB | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
