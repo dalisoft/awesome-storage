@@ -7,7 +7,6 @@
 | Yandex Drive    | ✅                                                       |
 | Google Drive    | ✅                                                       |
 | MS OneDrive     | ✅                                                       |
-| Skiff Drive     | ❌                                                       |
 | Proton Drive    | ✅                                                       |
 | CryptPad.fr     | [Tracking](https://github.com/rclone/rclone/issues/4715) |
 | kDrive          | ❌                                                       |
