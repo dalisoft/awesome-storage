@@ -2,6 +2,8 @@
 
 List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=631932044" height="20">](https://api.gitsponsors.com/api/badge/link?p=IpVemY2kH9BqXgX35SaWW4TnA0bPfXVCcjozxzvQo48Hmrp2f8vsvivjv84S2wqJcpPqjb2c+dxeiFVl7HDo5y9SyQbdJP84daDXPta1U/a8p6txmmirDXxJMnYWBs5xsK7nsymvSM+1cV2ZpHEdfw==)
+
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
@@ -35,13 +37,13 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Koofr](https://koofr.eu)                                                                       | -       | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | Yes  | Yes          |
 | [INTERNXT](https://internxt.com)                                                                | -       | 10GB  | [20GB / 11€/y](https://internxt.com/pricing)                             | Yes  | -            |
 | iCloud Drive                                                                                    | iCloud+ | 5GB   | [50GB / $12/y](https://support.apple.com/en-us/HT201238)                 | Yes  | -            |
-| [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0) 💲                                 | -       | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
+| [Filen](https://filen.io/r/7ccfa32d8f638c589fe6dcecfb3995e0)                                    | -       | 10GB  | [100GB / 12€](https://filen.io/pricing)                                  | Yes  | Yes          |
 | [Облако Mail.ru](https://cloud.mail.ru)                                                         | Mail.ru | 8GB   | 128GB / 999₽/y                                                           | -    | -            |
 | [IceDrive](https://icedrive.net/plans)                                                          | -       | 10GB  | [150GB / $20/y](https://icedrive.net/plans)                              | Yes  | ?            |
 | [NordLocker](https://nordlocker.com/secure-cloud-storage)                                       | NordVPN | 3GB   | 500GB / $36/y                                                            | Yes  | ?            |
 | [Hetzner Storage](https://www.hetzner.com/storage/storage-box)                                  | Hetzner | -     | 1TB / 45€/y                                                              | -    | Yes          |
 | [pCloud](https://e.pcloud.com/#page=register&invite=ynR7ZlAVRT7) 💲                             | -       | 10GB  | [500GB / $50/y](https://www.pcloud.com/cloud-storage-pricing-plans.html) | $150 | 15/30 days   |
-| [Mega](https://mega.nz/aff=Gjch3rzQJmA) 💲                                                      | -       | 20GB  | [400GB / 50€/y](https://mega.io/pricing)                                 | Yes  | Yes          |
+| [Mega](https://mega.nz/aff=Gjch3rzQJmA)                                                         | -       | 20GB  | [400GB / 50€/y](https://mega.io/pricing)                                 | Yes  | Yes          |
 | [Sync](https://www.sync.com)                                                                    | -       | 5GB   | [2TB / $96/y](https://www.sync.com/pricing/)                             | Yes  | 180-days     |
 | [Jottacloud](https://www.jottacloud.com)                                                        | -       | 5GB   | [1TB / 118€/ y](https://www.jottacloud.com/en/home)                      |      | Yes          |
 | [Dropbox](https://www.dropbox.com/referrals/AADdF28MD0HWowjvA83VJAlLJlHyBXid8hA?src=global9) 💲 | -       | 2GB   | [2TB / $120/y](https://www.dropbox.com/plans)                            | -    | 30-days      |
