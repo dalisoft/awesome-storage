@@ -2,8 +2,6 @@
 
 List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=631932044" height="20">](https://api.gitsponsors.com/api/badge/link?p=IpVemY2kH9BqXgX35SaWW4TnA0bPfXVCcjozxzvQo48Hmrp2f8vsvivjv84S2wqJcpPqjb2c+dxeiFVl7HDo5y9SyQbdJP84daDXPta1U/a8p6txmmirDXxJMnYWBs5xsK7nsymvSM+1cV2ZpHEdfw==)
-
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
