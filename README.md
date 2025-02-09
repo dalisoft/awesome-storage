@@ -5,7 +5,7 @@ List of awesome cloud storage providers for individuals and family sorted by min
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
-- [awesome-chatbot](https://github.com/dalisoft/awesome-chatbot)
+- [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
 
 ## Support
 
