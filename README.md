@@ -1,6 +1,8 @@
 # awesome-storage
 
-List of awesome cloud storage providers for individuals and family sorted by minimal plan price
+List of awesome cloud storage providers for individuals and family sorted by minimal plan price.
+
+[rclone](./rclone.md) support table also included.
 
 ## Other my awesome lists
 

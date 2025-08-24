@@ -21,7 +21,7 @@
 | iDrive          | [Tracking](https://github.com/rclone/rclone/issues/5229) |
 | Koofr           | ✅                                                       |
 | INTERNXT        | [Tracking](https://github.com/rclone/rclone/issues/7610) |
-| iCloud Drive    | [Tracking](https://github.com/rclone/rclone/issues/1778) |
+| iCloud Drive    | ✅                                                       |
 | Filenio         | [Tracking](https://github.com/rclone/rclone/issues/6728) |
 | Облако Mail.ru  | ✅                                                       |
 | IceDrive        | [Tracking](https://github.com/rclone/rclone/issues/5861) |
@@ -50,7 +50,7 @@
 | Contabo Object Storage  | ✅                                                       |
 | Backblaze B2            | ✅                                                       |
 | Scaleway Object Storage | ✅                                                       |
-| Yandex Object Storage   | [Tracking](https://github.com/rclone/rclone/issues/7044) |
+| Yandex Object Storage   | ✅                                                       |
 | Selectel Object Storage | [Tracking](https://github.com/rclone/rclone/issues/4472) |
 | Google Cloud Storage    | ✅                                                       |
 | Azure Blob Storage      | ✅                                                       |
