@@ -4,6 +4,8 @@ List of awesome cloud storage providers for individuals and family sorted by min
 
 [rclone](./rclone.md) support table also included.
 
+<a href="https://www.producthunt.com/products/github-174?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;storage" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1008822&theme=light&t=1756127438414" alt="awesome&#0045;storage - List&#0032;of&#0032;cloud&#0032;storage&#0032;providers&#0032;for&#0032;individuals&#0032;and&#0032;family | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
