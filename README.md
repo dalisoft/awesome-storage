@@ -10,6 +10,7 @@ List of awesome cloud storage providers for individuals and family sorted by min
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
 - [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
+- [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
 
 ## Support
 
