@@ -17,6 +17,14 @@ List of awesome cloud storage providers for individuals and family sorted by min
 
 You can support project by **Clicking to name of service**, with 💲 badge, not **Pricing** or **Plans** link as **service name links** includes affiliates (only those which with 💲 badge)
 
+## Contents
+
+- [Cloud + Workspace](#cloud--workspace)
+- [Cloud](#cloud)
+- [Media](#media)
+- [S3](#s3)
+- [Self-hosted](#self-hosted)
+
 ## Cloud + Workspace
 
 | Name                                                            | Part of    | Free | Minimal plan                                                 | E2EE | File History |
