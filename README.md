@@ -95,6 +95,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [NextCloud](https://nextcloud.com)                  | Yes  | Yes          |
 | [ownCloud](https://owncloud.com)                    | Yes  | Yes?         |
 | [Aurora Files](https://afterlogic.org/aurora-files) | Yes  | Yes?         |
+| [HuskHoard](https://huskhoard.com)                  | Yes  | Yes          |
 
 ## References
 
