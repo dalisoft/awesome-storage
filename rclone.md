@@ -20,9 +20,9 @@
 | --------------- | -------------------------------------------------------- |
 | iDrive          | [Tracking](https://github.com/rclone/rclone/issues/5229) |
 | Koofr           | ✅                                                       |
-| INTERNXT        | [Tracking](https://github.com/rclone/rclone/issues/7610) |
+| INTERNXT        | [✅ (v1.73+, plan dependent)](https://rclone.org/internxt/) |
 | iCloud Drive    | ✅                                                       |
-| Filenio         | [Tracking](https://github.com/rclone/rclone/issues/6728) |
+| Filenio         | [✅ (v1.73+)](https://rclone.org/filen/) |
 | Облако Mail.ru  | ✅                                                       |
 | IceDrive        | [Tracking](https://github.com/rclone/rclone/issues/5861) |
 | Nordlocker      | [Tracking](https://github.com/rclone/rclone/issues/6872) |
@@ -51,7 +51,7 @@
 | Backblaze B2            | ✅                                                       |
 | Scaleway Object Storage | ✅                                                       |
 | Yandex Object Storage   | ✅                                                       |
-| Selectel Object Storage | [Tracking](https://github.com/rclone/rclone/issues/4472) |
+| Selectel Object Storage | [✅ (v1.69+)](https://rclone.org/s3/#selectel) |
 | Google Cloud Storage    | ✅                                                       |
 | Azure Blob Storage      | ✅                                                       |
 | Amazon S3               | ✅                                                       |
