@@ -51,7 +51,7 @@
 | Backblaze B2            | ✅                                                       |
 | Scaleway Object Storage | ✅                                                       |
 | Yandex Object Storage   | ✅                                                       |
-| Selectel Object Storage | [Tracking](https://github.com/rclone/rclone/issues/4472) |
+| Selectel Object Storage | [✅ (v1.69+)](https://rclone.org/s3/#selectel) |
 | Google Cloud Storage    | ✅                                                       |
 | Azure Blob Storage      | ✅                                                       |
 | Amazon S3               | ✅                                                       |
