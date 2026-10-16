@@ -1,4 +1,4 @@
 {
   "prettier.requireConfig": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "rvben.rumdl"
 }
