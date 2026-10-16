@@ -69,7 +69,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 | Name                           | Part of | Free | Minimal plan  | E2EE | File History |
 | ------------------------------ | ------- | ---- | ------------- | ---- | ------------ |
-| [blomp](https://www.blomp.com) | -       | 20GB | 250GB / $12/y | -    | -            |
+| [blomp](https://www.blomp.com) | -       | 40GB | 500GB / $11.88/y | -    | -            |
 
 `*` - I do not guarantee for security and privacy of these cloud services
 
