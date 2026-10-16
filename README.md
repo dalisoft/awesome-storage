@@ -81,7 +81,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Storj](https://storj.io)                                                      | -    | [1-1TB / $135/yr](https://storj.io/pricing)                                | -    | -            |
 | [Contabo Object Storage](https://contabo.com/en/object-storage/)               | -    | 1-1TB / $144/yr                                                            | -    | -            |
 | [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)                | 10GB | [1-1TB / $180/yr](https://www.backblaze.com/b2/cloud-storage-pricing.html) | -    | -            |
-| [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 75GB | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
+| [Scaleway Object Storage](https://www.scaleway.com/en/object-storage)          | 90-day trial | [1-1TB / 276€/yr](https://www.scaleway.com/en/pricing/?tags=storage)       | -    | -            |
 | [Yandex Object Storage](https://cloud.yandex.com/en-ru/services/storage)       | 10GB | 1-1TB / $520/yr                                                            | -    | Yes          |
 | [Selectel Object Storage](https://selectel.ru/services/cloud/storage)          | -    | 1-1TB / $576/yr                                                            | -    | -            |
 | [Google Cloud Storage](https://cloud.google.com/storage)                       | 5GB  | 1-1TB / $804/yr                                                            | -    | -            |
