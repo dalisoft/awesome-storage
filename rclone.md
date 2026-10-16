@@ -22,7 +22,7 @@
 | Koofr           | ✅                                                       |
 | INTERNXT        | [✅ (v1.73+, plan dependent)](https://rclone.org/internxt/) |
 | iCloud Drive    | ✅                                                       |
-| Filenio         | [Tracking](https://github.com/rclone/rclone/issues/6728) |
+| Filenio         | [✅ (v1.73+)](https://rclone.org/filen/) |
 | Облако Mail.ru  | ✅                                                       |
 | IceDrive        | [Tracking](https://github.com/rclone/rclone/issues/5861) |
 | Nordlocker      | [Tracking](https://github.com/rclone/rclone/issues/6872) |
