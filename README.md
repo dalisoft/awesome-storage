@@ -30,7 +30,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | Name                                                            | Part of    | Free | Minimal plan                                                 | E2EE | File History |
 | --------------------------------------------------------------- | ---------- | ---- | ------------------------------------------------------------ | ---- | ------------ |
 | [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)   | -    | Yes          |
-| [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://www.google.com/drive/#pricing)       | -    | 30-days      |
+| [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://one.google.com/about/plans)       | -    | 30-days      |
 | [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                                | -    | Yes          |
 | [Proton Drive](https://proton.me/drive)                         | Proton     | 1GB  | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | -            |
 | [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)             | Yes  | -            |
