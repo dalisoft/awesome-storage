@@ -35,7 +35,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Proton Drive](https://proton.me/drive)                         | Proton     | [2–5GB](https://proton.me/support/increase-storage-space) | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | 10 years (paid) |
 | [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)             | Yes  | -            |
 | [kDrive](https://www.infomaniak.com/en/kdrive) ⚠️               | kSuite     | 15GB | [3TB / 60CHF/y](https://www.infomaniak.com/en/kdrive/prices) | -    | Yes          |
-| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $99/y](https://www.opendrive.com/pricing)      | -    | Yes          |
+| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $129/y](https://www.opendrive.com/pricing)      | -    | Yes          |
 | [Box](https://www.box.com)                                      | -          | 10GB | [100GB / $138/y](https://www.box.com/pricing/individual)     | -    | Limited      |
 | [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)            | Yes  | 180-days     |
 
