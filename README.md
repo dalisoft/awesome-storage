@@ -27,17 +27,17 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 
 ## Cloud + Workspace
 
-| Name                                                            | Part of    | Free | Minimal plan                                                 | E2EE | File History      |
-| --------------------------------------------------------------- | ---------- | ---- | ------------------------------------------------------------ | ---- | ----------------- |
-| [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)   | -    | Yes               |
-| [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://one.google.com/about/plans)          | -    | 30-days           |
-| [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                                | -    | Yes               |
-| [Proton Drive](https://proton.me/drive)                         | Proton     | 2GB  | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | 10 years (paid)   |
-| [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)             | Yes  | -                 |
-| [kDrive](https://www.infomaniak.com/en/kdrive) ⚠️               | kSuite     | 15GB | [3TB / 60CHF/y](https://www.infomaniak.com/en/kdrive/prices) | -    | Yes               |
-| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $129/y](https://www.opendrive.com/pricing)     | -    | Yes               |
-| [Box](https://www.box.com)                                      | -          | 10GB | [100GB / $138/y](https://www.box.com/pricing/individual)     | -    | Limited           |
-| [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)            | Yes  | 14-days (default) |
+| Name                                                            | Part of    | Free | Minimal plan                                               | E2EE | File History      |
+| --------------------------------------------------------------- | ---------- | ---- | ---------------------------------------------------------- | ---- | ----------------- |
+| [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans) | -    | Yes               |
+| [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://one.google.com/about/plans)        | -    | 30-days           |
+| [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                              | -    | Yes               |
+| [Proton Drive](https://proton.me/drive)                         | Proton     | 2GB  | [200GB / 48€/y](https://proton.me/drive/pricing)           | Yes  | 10 years (paid)   |
+| [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)           | Yes  | -                 |
+| [kDrive](https://www.infomaniak.com/en/kdrive) ⚠️               | kSuite     | 15GB | [3TB / 60€/y](https://www.infomaniak.com/en/kdrive/prices) | -    | Yes               |
+| [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $129/y](https://www.opendrive.com/pricing)   | -    | Yes               |
+| [Box](https://www.box.com)                                      | -          | 10GB | [100GB / $138/y](https://www.box.com/pricing/individual)   | -    | Limited           |
+| [ownCloud Online](https://owncloud.online)                      | ownCloud   | -    | [500GB / 180€/y](https://owncloud.online/pricing)          | Yes  | 14-days (default) |
 
 `*` - I do not guarantee for security and privacy of these cloud services
 
