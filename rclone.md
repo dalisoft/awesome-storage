@@ -20,7 +20,7 @@
 | --------------- | -------------------------------------------------------- |
 | iDrive          | [Tracking](https://github.com/rclone/rclone/issues/5229) |
 | Koofr           | ✅                                                       |
-| INTERNXT        | [Tracking](https://github.com/rclone/rclone/issues/7610) |
+| INTERNXT        | [✅ (v1.73+, plan dependent)](https://rclone.org/internxt/) |
 | iCloud Drive    | ✅                                                       |
 | Filenio         | [Tracking](https://github.com/rclone/rclone/issues/6728) |
 | Облако Mail.ru  | ✅                                                       |
