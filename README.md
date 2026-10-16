@@ -32,7 +32,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 | [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans)   | -    | Yes          |
 | [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://one.google.com/about/plans)       | -    | 30-days      |
 | [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                                | -    | Yes          |
-| [Proton Drive](https://proton.me/drive)                         | Proton     | 1GB  | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | -            |
+| [Proton Drive](https://proton.me/drive)                         | Proton     | [2–5GB](https://proton.me/support/increase-storage-space) | [200GB / 48€/y](https://proton.me/drive/pricing)             | Yes  | 10 years (paid) |
 | [CryptPad.fr](https://cryptpad.fr)                              | -          | 1GB  | [5GB / 60€/y](https://cryptpad.fr/features.html)             | Yes  | -            |
 | [kDrive](https://www.infomaniak.com/en/kdrive) ⚠️               | kSuite     | 15GB | [2TB / 60CHF/y](https://www.infomaniak.com/en/kdrive/prices) | -    | Yes          |
 | [OpenDrive](https://www.opendrive.com/personal)                 | OpenDrive  | 5GB  | [Unlimited? / $99/y](https://www.opendrive.com/pricing)      | -    | Yes          |
