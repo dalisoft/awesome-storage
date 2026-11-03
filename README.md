@@ -28,7 +28,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## Cloud + Workspace
 
 | Name                                                            | Part of    | Free | Minimal plan                                               | E2EE | File History |
-| --------------------------------------------------------------- | ---------- | ---- | ---------------------------------------------------------- | ---- | ------------ |
+|-----------------------------------------------------------------|------------|------|------------------------------------------------------------|------|--------------|
 | [Yandex Disk](https://disk.yandex.ru)                           | Yandex 360 | 5GB  | [200GB / 1296₽/y](https://mail360.yandex.ru/premium-plans) | -    | Yes          |
 | [Google Drive](https://www.google.com/drive)                    | Google One | 15GB | [100GB / $20/y](https://one.google.com/about/plans)        | -    | 30-days      |
 | [MS OneDrive](https://www.microsoft.com/microsoft-365/onedrive) | MS 365     | 5GB  | 100GB / $20/y                                              | -    | Yes          |
@@ -44,7 +44,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## Cloud
 
 | Name                                                                                            | Part of | Free  | Minimal plan                                                             | E2EE | File History  |
-| ----------------------------------------------------------------------------------------------- | ------- | ----- | ------------------------------------------------------------------------ | ---- | ------------- |
+|-------------------------------------------------------------------------------------------------|---------|-------|--------------------------------------------------------------------------|------|---------------|
 | [iDrive](https://www.idrive.com) ⚠️                                                             | -       | 10GB  | [100GB / $3/y](https://www.idrive.com/pricing)                           | Yes  | Yes           |
 | [Koofr](https://koofr.eu)                                                                       | -       | 10GB  | [+10GB / 6€/y](https://koofr.eu/pricing)                                 | Yes  | Yes           |
 | [INTERNXT](https://internxt.com)                                                                | -       | 1GB   | [20GB / 11€/y](https://internxt.com/pricing)                             | Yes  | -             |
@@ -68,7 +68,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## Media
 
 | Name                           | Part of | Free | Minimal plan  | E2EE | File History |
-| ------------------------------ | ------- | ---- | ------------- | ---- | ------------ |
+|--------------------------------|---------|------|---------------|------|--------------|
 | [blomp](https://www.blomp.com) | -       | 40GB | 500GB / $12/y | -    | -            |
 
 `*` - I do not guarantee for security and privacy of these cloud services
@@ -76,7 +76,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## S3
 
 | Name                                                                           | Free   | Plan                                                                       | E2EE | File History |
-| ------------------------------------------------------------------------------ | ------ | -------------------------------------------------------------------------- | ---- | ------------ |
+|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------------|------|--------------|
 | [iDrive e2](https://www.idrive.com/object-storage-e2)                          | -      | [1-1TB / $40/yr](https://www.idrive.com/object-storage-e2/pricing)         | -    | -            |
 | [Storj](https://storj.io)                                                      | -      | [1-1TB / $135/yr](https://storj.io/pricing)                                | -    | -            |
 | [Contabo Object Storage](https://contabo.com/en/object-storage/)               | -      | 1-1TB / $144/yr                                                            | -    | -            |
@@ -91,7 +91,7 @@ You can support project by **Clicking to name of service**, with 💲 badge, not
 ## Self-hosted
 
 | Name                                                | E2EE | File History |
-| --------------------------------------------------- | ---- | ------------ |
+|-----------------------------------------------------|------|--------------|
 | [Seafile](https://www.seafile.com/en/home)          | Yes  | Yes          |
 | [NextCloud](https://nextcloud.com)                  | Yes  | Yes          |
 | [ownCloud](https://owncloud.com)                    | Yes  | Yes?         |
