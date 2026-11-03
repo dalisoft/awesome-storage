@@ -1,0 +1,155 @@
+name: CI
+
+# Pipeline (one workflow so the order is guaranteed via `needs`):
+#
+#   PR Lint ──┬── Signed Commits (always required) ──┬── LGTM (review) ── Auto-merge
+#             └── PR Spam Guard (run or skip) ───────┘
+#
+# PRs use pull_request_target so every job runs the *base branch* copy of
+# this workflow and of .github/scripts: a fork cannot edit the checks that
+# decide approve / request changes. PR files are only checked out (without
+# credentials) into ./pr for linting and are never executed.
+on:
+  push:
+  pull_request_target:
+    branches: [master]
+    types: [opened, reopened, synchronize, ready_for_review]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: PR Lint
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      # Base branch (trusted): provides .rumdl.toml
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      # PR head (untrusted): data only, linted with the base config
+      - if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v7.0.1
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
+          persist-credentials: false
+      - uses: rvben/rumdl@v0.3.2
+        with:
+          config: .rumdl.toml
+          command: fmt-check
+          path: ${{ github.event_name == 'pull_request_target' && 'pr' || '' }}
+
+  signed-commits:
+    name: Signed Commits
+    needs: lint
+    # Always required for every PR, regardless of author or lint result
+    if: ${{ !cancelled() && github.event_name == 'pull_request_target' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Check all PR commits are signed
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            const { default: signedCommits } = await import('${{ github.workspace }}/.github/scripts/signed-commits.js')
+
+            await signedCommits({github, context, core})
+
+  spam-guard:
+    name: PR Spam Guard
+    needs: lint
+    # Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
+    # Skipped for the maintainer and dependabot
+    if: >-
+      !cancelled() &&
+      github.event_name == 'pull_request_target' &&
+      github.event.pull_request.user.login != 'dalisoft' &&
+      github.event.pull_request.user.login != 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+    outputs:
+      closed: ${{ steps.audit.outputs.closed }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Audit submitter
+        id: audit
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard.js')
+
+            await prSpamGuard({github, context, core})
+
+  lgtm:
+    name: LGTM
+    needs: [lint, signed-commits, spam-guard]
+    # Skipped on push, and when the Spam Guard already closed the PR
+    if: >-
+      !cancelled() &&
+      github.event_name == 'pull_request_target' &&
+      needs.spam-guard.outputs.closed != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: write
+    outputs:
+      approved: ${{ steps.review.outputs.approved }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Approve or request changes
+        id: review
+        uses: actions/github-script@v9.0.0
+        env:
+          LINT_RESULT: ${{ needs.lint.result }}
+          SIGNED_RESULT: ${{ needs.signed-commits.result }}
+          SPAM_RESULT: ${{ needs.spam-guard.result }}
+        with:
+          script: |
+            const { default: prReview } = await import('${{ github.workspace }}/.github/scripts/pr-review.js')
+
+            await prReview({github, context, core})
+
+  automerge:
+    name: Auto-merge
+    needs: lgtm
+    # Dependabot updates only, and only once LGTM approved
+    if: >-
+      !cancelled() &&
+      needs.lgtm.outputs.approved == 'true' &&
+      github.event.pull_request.user.login == 'dependabot[bot]' &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - run: gh pr merge "$PR_NUMBER" --auto --squash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
