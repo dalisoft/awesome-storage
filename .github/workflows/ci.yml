@@ -42,7 +42,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           path: pr
           persist-credentials: false
-      - uses: rvben/rumdl@v0.3.2
+      - uses: rvben/rumdl@v0.3.3
         with:
           config: .rumdl.toml
           command: fmt-check
