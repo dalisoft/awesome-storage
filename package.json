@@ -8,7 +8,7 @@
   "devDependencies": {
     "@actions/github-script": "github:actions/github-script",
     "@types/bun": "latest",
-    "rumdl": "^0.3.5",
+    "rumdl": "^0.3.6",
     "typescript": "^7.0.2"
   }
 }
